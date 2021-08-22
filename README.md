@@ -7,5 +7,4 @@
 dec880126/dec880126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src = 'https://user-images.githubusercontent.com/34447298/129414731-de38a22d-745e-4203-a2d3-ca9527740c0e.jpg' height=60% weight=60%>
 
