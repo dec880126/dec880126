@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dec880126 (Cyuan)
 - 🌱 I’m currently learning Digital IC Design, AI
-- 🏫 I'm studying Electrical Engineerin at National Chung Hsing University, NCHU⚡️
+- 🏫 I'm studying Electrical Engineering at National Chung Hsing University, NCHU⚡️
 - 📫 How to reach me : <dec880126@icloud.com>
 
 <!---
