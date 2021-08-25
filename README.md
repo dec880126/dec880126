@@ -18,7 +18,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/11181133777)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11181133777&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
