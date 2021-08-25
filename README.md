@@ -1,3 +1,7 @@
+### GitHub status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dec880126&count_private=true&show_icons=true&theme=radical)
+)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @dec880126 (Cyuan)
 - 🌱 I’m currently learning Digital IC Design, AI
 - 🏫 I'm studying Electrical Engineering at National Chung Hsing University, NCHU⚡️
