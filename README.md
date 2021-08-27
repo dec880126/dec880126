@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [PCMS](https://github.com/dec880126/Pinkbird-Client-Management-System)
 
-- 🌱 I’m currently learning **Digital IC Design, AI**
+- 🌱 I’m currently learning **Digital IC Design, AI, CNN Accelerator, Hardware Software Codesign**
 
 - 🏫 I'm studying Electrical Engineering at National Chung Hsing University, NCHU⚡️
 
