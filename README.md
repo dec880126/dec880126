@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyuan Huang</h1>
-<h3 align="center">A Digital IC designer & programmer from Taiwan!</h3>
+<!-- <h3 align="center">A Digital IC designer & programmer from Taiwan!</h3> -->
+<h3 align="center">A student from Taiwan!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dec880126" alt="dec880126" /></a> </p>
 
