@@ -4,9 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dec880126" alt="dec880126" /></a> </p>
 
-- 🔭 I’m currently working on [PCMS](https://github.com/dec880126/Pinkbird-Client-Management-System)
+- 🔭 I’m currently working on 
+  - **[PCMS](https://github.com/dec880126/Pinkbird-Client-Management-System)**
 
-- 🌱 I’m currently learning **Digital IC Design, CNN Accelerator, Hardware Software Codesign**
+- 🌱 I’m currently learning 
+  - **Digital IC Design**
+  - **CNN Accelerator**
+  - **Hardware Software Codesign**
 
 - 🏫 I'm studying Electrical Engineering at National Chung Hsing University, NCHU⚡️
 
