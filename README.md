@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on 
   - **[PCMS](https://github.com/dec880126/Pinkbird-Client-Management-System)**
+  - **[AVMC](https://github.com/dec880126/AV-Magnet-Catcher)**
 
 - 🌱 I’m currently learning 
   - **Digital IC Design**
