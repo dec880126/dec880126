@@ -35,7 +35,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11181133777&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
+
 [Email Me!](mailto:dec880126@gmail.com)
+
 <p align="left">
 <a href="https://fb.com/100000376791767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100000376791767" height="30" width="40" /></a>
 <a href="https://instagram.com/cyuanz.0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyuanz.0126" height="30" width="40" /></a>
