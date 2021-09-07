@@ -13,7 +13,7 @@
   - **CNN Accelerator**
   - **Hardware Software Codesign**
 
-- 🏫 I'm studying Electrical Engineering at National Chung Hsing University, NCHU⚡️
+- 🏫 I'm studying **Electrical Engineering** at **National Chung Hsing University, NCHU**⚡️
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dec880126&show_icons=true&theme=buefy&locale=en&hide=contribs,issues" alt="dec880126" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dec880126&show_icons=true&locale=en&layout=compact&hide=css" alt="dec880126" /></p>
 <br>
